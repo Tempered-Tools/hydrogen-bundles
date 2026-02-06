@@ -1,6 +1,6 @@
 {
   "name": "@tempered/hydrogen-bundles",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Bundle cart resolution components for Shopify Hydrogen storefronts",
   "license": "MIT",
   "author": "Tempered Tools <hello@temperedtools.xyz>",
