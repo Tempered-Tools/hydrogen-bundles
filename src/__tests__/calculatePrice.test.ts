@@ -9,7 +9,7 @@ import { describe, it, expect } from 'vitest';
 
 import { formatMoney, formatSavings } from '../sdk/calculatePrice.js';
 
-import type { BundleDefinition, Money } from '../types.js';
+import type { Money } from '../types.js';
 
 // We can't directly test calculatePriceFromDefinition (not exported), but we can
 // test calculateBundlePrice with a definition object (no API call needed).
